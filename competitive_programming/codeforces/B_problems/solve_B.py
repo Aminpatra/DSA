@@ -2,7 +2,8 @@
 # Topic: Graphs
 
 # time took to solve problem is: 30 min.
-# solved in the first try.
+# solved in first try.
+# AI used ? NO
 
 n, m=map(int,input().split())
 nodes = dict()
