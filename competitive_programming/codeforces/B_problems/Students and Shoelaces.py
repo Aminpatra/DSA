@@ -1,4 +1,4 @@
-# https://codeforces.com/contest/129/problem/B
+# https://codefoDreamoon and WiFirces.com/contest/129/problem/B
 # Topic: Graphs
 
 # time took to solve problem is: 30 min.
