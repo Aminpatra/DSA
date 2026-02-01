@@ -24,7 +24,7 @@ I use this repo to:
 ## 🧠 What This Repo Contains
 
 - 📂 Different folders for **data structures & algorithms**
-- 📝 Problem statements
+- 📝 Link to the problem statements
 - ✅ Solutions (with code)
 - ✍️ My personal notes, explanations, and observations
 - ⏱️ Time & space complexity analysis (where applicable)
