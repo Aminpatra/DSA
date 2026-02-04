@@ -17,3 +17,4 @@ else:
 
 # Lessons: to make all elements of an array equal by choosing an x integer
 # this x can be subtracted or added only once or we leave the element, then they must from an arithmetic sequence
+# if we have a < b < c, if we want to check for arithmetic seq: b * 2 = a + c
