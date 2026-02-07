@@ -1,3 +1,11 @@
+# http://codeforces.com/contest/551/problem/A
+# Topic: implementation
+# Rating: A: 800
+
+# Time took to solve problem is: 10 min.
+# Solved in First try.
+# AI used ? NO
+
 n=int(input())
 v=list(map(int,input().split()))
 hast_map = {}
