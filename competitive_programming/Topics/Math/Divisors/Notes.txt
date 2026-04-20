@@ -1,0 +1,1 @@
+if n is a perfect square, then n has Odd number of divisors, else even.
